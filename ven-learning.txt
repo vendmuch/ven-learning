@@ -1,3 +1,5 @@
-satu
+siji
 dua 
-tiga
+empat
+lima
+enam
